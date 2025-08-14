@@ -61,4 +61,16 @@ Create a 10-second countdown timer that stops at 0 and shows "Time's up!".
 - *JavaScript ES6+*
 - *CSS Styling Methods:*
   - Inline/Internal CSS
-  -
+  - External CSS
+  - CSS Modules
+  -  Styled Components
+  
+
+## 🚀 How to Run
+1. clone the repository or copy the code files.
+2. install dependencies:
+   ```bash
+   npm install
+3. Run the app:
+ Bash
+npm start   
